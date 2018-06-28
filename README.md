@@ -57,7 +57,7 @@ Instructions on working with resulting datasets using pandas DataFrames are prov
 	- Identify users with the richest dialectal tweets and add them to timeline streams. 
 	- Confirm geographic origin of tweets and make term substitutions in stop word list as needed.
 	- Continue rinsing and repeating until terms appear mostly in either one or the other documents.
-- Repeat same process for user timelines using Twitter's REST API
+- Repeat process for user timelines using Twitter REST API
 - Optional: Stanford Arabic Parser (with built-in ATB) to lametize and seg the data. Use Stanford Arabic Word Segmenter concurrently with Parser, before or after? 
 - Use the three techniques below and explore best results:
 	- Tfidf, SVD, latent semantic analysis
@@ -83,4 +83,4 @@ Instructions on working with resulting datasets using pandas DataFrames are prov
 - Tamir ElSahy
 
 ## Acknowledgments
-- Please refer to the research paper for list of acknowledgments
+- Full acknowledgments available in the file titled `Building Datasets for Dialect Classifiers using Twitter.pdf` contained within this repo. 
