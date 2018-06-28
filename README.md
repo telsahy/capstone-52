@@ -73,7 +73,7 @@ Instructions on working with resulting datasets using pandas DataFrames are prov
 
 ### Results:
 - Perform plotting, confusion matrix, classification report, roc curve, etc.  
-Optional: Clustering estimators, DBSCAN, KMeans, Spectral Clustering
+- Optional: Clustering estimators, DBSCAN, KMeans, Spectral Clustering
 
 ## Deep Learning - Text Classification with RNN
 - Word2Vec
