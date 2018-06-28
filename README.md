@@ -1,4 +1,4 @@
-___Note: This repo (capstone-52) is used only to conduct topic modeling and classification on a corpus containing both dialects (EG + GULF). For the relevant GULF and EG Arabic twitter streams and users, please refer to the capstone-35 and capstone-34 repos respectively.___
+___Note: This repo (capstone-52) is used primarily to conduct topic modeling and classification on a corpus containing both dialects (EG + GULF). For the relevant GULF and EG Arabic twitter streams and users, please refer to the capstone-35 and capstone-34 repos respectively.___
 
 # Twitter Dialect Datasets and Classifiers (Arabic)
 A project to harvest corpora for Egyptian Arabic and Gulf Arabic from Twitter, conduct descriptive analyses of the resulting corpora, and show that a simple classifier can predict dialect quite effectively. 
